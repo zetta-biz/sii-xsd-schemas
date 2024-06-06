@@ -33,3 +33,11 @@ Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_lgd.zip
 * [RespuestaEnvioDTE_v10.xsd](schemas/RespuestaEnvioDTE_v10.xsd)
 
 Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_ic.zip
+
+### Recibo de las Mercaderías o Servicios prestados, según Ley 19.983
+
+* [EnvioRecibos_v10.xsd](schemas/EnvioRecibos_v10.xsd)
+* [Recibos_v10.xsd](schemas/Recibos_v10.xsd)
+* [SiiTypes_v10.xsd](schemas/SiiTypes_v10.xsd) (actualizado 22-11-05)
+
+Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema19983.zip
