@@ -47,3 +47,7 @@ Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema19983.zip
 * [RespSII_v10.xsd](schemas/RespSII_v10.xsd)
 
 Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_resp.zip
+
+* [RespSIILibros_v10.xsd](schemas/RespSIILibros_v10.xsd)
+
+Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_resp_libros.zip
