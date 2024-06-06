@@ -51,3 +51,9 @@ Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_resp.zip
 * [RespSIILibros_v10.xsd](schemas/RespSIILibros_v10.xsd)
 
 Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_resp_libros.zip
+
+### Boletas Electrónicas
+
+* [EnvioBOLETA_v11.xsd](schemas/EnvioBOLETA_v11.xsd)
+
+Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_envio_bol.zip
