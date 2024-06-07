@@ -41,3 +41,9 @@ Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_ic.zip
 * [SiiTypes_v10.xsd](schemas/SiiTypes_v10.xsd) (actualizado 22-11-05)
 
 Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema19983.zip
+
+### Respuesta SII a Envíos Automáticos
+
+* [RespSII_v10.xsd](schemas/RespSII_v10.xsd)
+
+Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_resp.zip
