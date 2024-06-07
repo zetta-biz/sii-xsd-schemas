@@ -63,3 +63,9 @@ Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_envio_bol.
 * [LibroBOLETA_v10.xsd](schemas/LibroBOLETA_v10.xsd)
 
 Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_libro_bol.zip
+
+### Archivo de Consumo de Folios
+
+* [ConsumoFolio_v10.xsd](schemas/ConsumoFolio_v10.xsd)
+
+Fuente: https://www.sii.cl/factura_electronica/factura_mercado/ConsumoFolio_v10.xsd
