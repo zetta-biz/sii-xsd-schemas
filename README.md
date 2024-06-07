@@ -27,3 +27,9 @@ Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_iecv.zip
 * [LibroGuia_v10.xsd](schemas/LibroGuia_v10.xsd)
 
 Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_lgd.zip
+
+### Intercambio entre Contribuyentes
+
+* [RespuestaEnvioDTE_v10.xsd](schemas/RespuestaEnvioDTE_v10.xsd)
+
+Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_ic.zip
