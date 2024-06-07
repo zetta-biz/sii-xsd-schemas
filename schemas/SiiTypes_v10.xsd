@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!--Esquema para tipos de datos generales.
 
-Fecha ultima actualizaciï¿½n : 22-11-05  
+Fecha ultima actualización : 22-11-05  
 -->
 <xs:schema targetNamespace="http://www.sii.cl/SiiDte" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns1="http://www.sii.cl/SiiDte" elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<xs:simpleType name="DOCType">
@@ -542,7 +542,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 			<xs:enumeration value="55"/>
 			<xs:enumeration value="271">
 				<xs:annotation>
-					<xs:documentation>Bebidas analcohï¿½licas y Minerales con elevado contenido de azï¿½cares.</xs:documentation>
+					<xs:documentation>Bebidas analcohólicas y Minerales con elevado contenido de azúcares.</xs:documentation>
 				</xs:annotation>
 			</xs:enumeration>
 			<xs:enumeration value="301"/>
@@ -593,7 +593,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 	</xs:simpleType>
 	<xs:simpleType name="MailType">
 		<xs:annotation>
-			<xs:documentation>Direcciï¿½n email</xs:documentation>
+			<xs:documentation>Dirección email</xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:string">
 			<xs:maxLength value="80"/>
@@ -618,7 +618,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 	</xs:simpleType>
 	<xs:simpleType name="NroResolType">
 		<xs:annotation>
-			<xs:documentation>Nï¿½mero de Resoluciï¿½n</xs:documentation>
+			<xs:documentation>Número de Resolución</xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:nonNegativeInteger">
 			<xs:totalDigits value="6"/>
@@ -626,7 +626,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 	</xs:simpleType>
 	<xs:simpleType name="RznSocLargaType">
 		<xs:annotation>
-			<xs:documentation>Razï¿½n Social (max 100)</xs:documentation>
+			<xs:documentation>Razón Social (max 100)</xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:string">
 			<xs:maxLength value="100"/>
@@ -634,7 +634,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 	</xs:simpleType>
 	<xs:simpleType name="RznSocCortaType">
 		<xs:annotation>
-			<xs:documentation>Razï¿½n Social (max 40)</xs:documentation>
+			<xs:documentation>Razón Social (max 40)</xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:string">
 			<xs:maxLength value="40"/>
@@ -643,7 +643,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 	</xs:simpleType>
 	<xs:simpleType name="DireccSoloDTEType">
 		<xs:annotation>
-			<xs:documentation>Direcciï¿½n (maz 60)</xs:documentation>
+			<xs:documentation>Dirección (maz 60)</xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:string">
 			<xs:maxLength value="60"/>
@@ -651,7 +651,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 	</xs:simpleType>
 	<xs:simpleType name="DireccType">
 		<xs:annotation>
-			<xs:documentation>Direcciï¿½n (max 80)</xs:documentation>
+			<xs:documentation>Dirección (max 80)</xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:string">
 			<xs:maxLength value="80"/>
@@ -818,7 +818,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 	</xs:simpleType>
 	<xs:simpleType name="TipoTransCOMPRA">
 		<xs:annotation>
-			<xs:documentation>Tipo de Transacciï¿½n para el comprador</xs:documentation>
+			<xs:documentation>Tipo de Transacción para el comprador</xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:positiveInteger">
 			<xs:minInclusive value="1"/>
@@ -835,7 +835,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 			</xs:enumeration>
 			<xs:enumeration value="3">
 				<xs:annotation>
-					<xs:documentation>Adquisiciï¿½n o Construcciï¿½n de Bienes inmuebles, BBRR</xs:documentation>
+					<xs:documentation>Adquisición o Construcción de Bienes inmuebles, BBRR</xs:documentation>
 				</xs:annotation>
 			</xs:enumeration>
 			<xs:enumeration value="4">
@@ -845,7 +845,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 			</xs:enumeration>
 			<xs:enumeration value="5">
 				<xs:annotation>
-					<xs:documentation>Compra IVA Uso Comï¿½n o no Recuperable</xs:documentation>
+					<xs:documentation>Compra IVA Uso Común o no Recuperable</xs:documentation>
 				</xs:annotation>
 			</xs:enumeration>
 			<xs:enumeration value="6"/>
@@ -854,7 +854,7 @@ Fecha ultima actualizaciï¿½n : 22-11-05
 	</xs:simpleType>
 	<xs:simpleType name="TipoTransVENTA">
 		<xs:annotation>
-			<xs:documentation>Tipo de Transacciï¿½n para el vendedor</xs:documentation>
+			<xs:documentation>Tipo de Transacción para el vendedor</xs:documentation>
 		</xs:annotation>
 		<xs:restriction base="xs:positiveInteger">
 			<xs:minInclusive value="1"/>
