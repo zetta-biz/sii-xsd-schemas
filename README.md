@@ -21,3 +21,9 @@ Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_dte.zip
 * [LibroCV_v10.xsd](schemas/LibroCV_v10.xsd)
 
 Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_iecv.zip
+
+### Libro de Guías de Despacho Electrónicas
+
+* [LibroGuia_v10.xsd](schemas/LibroGuia_v10.xsd)
+
+Fuente: https://www.sii.cl/factura_electronica/factura_mercado/schema_lgd.zip
